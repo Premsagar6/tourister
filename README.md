@@ -39,7 +39,7 @@ Azure Static Web Apps Service, Azure Resource Manager.
 
 ![image](https://raw.githubusercontent.com/Premsagar6/travelling/main/images/images/banner5.jpg)
 
-### ***Tourist places*** ###
+### ***Touristers*** ###
 
 ![image](images/images/ab1.jpg)
 ![image](images/images/g4.jpg)

@@ -1,7 +1,7 @@
 # tourister
 # travelling
 # ✨ Travel Commute Agency Website ✨ #
-# azure deployment url:https://z3y75m.csb.app/
+# azure deployment url:https://zealous-moss-052c1b410.1.azurestaticapps.net
 
 ### :pushpin: This is the project created for Microsoft Future Ready Talent Virtual Internship Program on developing Azure Static Web Apps. ###
 
